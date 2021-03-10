@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DesafiosDIO.ClassesDesafio;
+using System;
 
 namespace DesafiosDIO
 {
@@ -11,7 +12,10 @@ namespace DesafiosDIO
             //CrescimentoPopulacional.CrescimentoPopMain();
             //Bazinga.BazingaMain();
             //TempoEvento.TempoEventoMain();
-            InverterString.InverterStringMain();
+            //InverterString.InverterStringMain();
+            //CoordenadasPonto.CoordenadasPontoMain();
+            //CompraSupermercado.CompraSupermercadoMain();
+            PinkECerebro.PinkECerebroMain();
         }
     }
 }
